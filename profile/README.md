@@ -1,6 +1,6 @@
 # Dr Matthew Beechey
 
-**AI Engineer | Embedded Systems Engineer | Machine Learning Researcher**
+**Machine Learning/AI Engineer | Embedded Systems Engineer | Academic Researcher**
 
 Welcome to my GitHub! I'm Dr Matthew Beechey — a multidisciplinary engineer and researcher working at the interface of embedded systems, machine learning, and intelligent infrastructure. With experience spanning academia, startups, and industry, I’m passionate about building intelligent systems that solve real-world problems.
 
