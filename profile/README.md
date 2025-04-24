@@ -44,7 +44,7 @@ Graph-based modelling of network latency and user association in wireless networ
 ### 🔹 Bus MONITOR – Technical Product Manager @ Vectare Ltd (2022–2024)
 Developed an embedded IoT platform for measuring service quality on public transport.
 
-### 🔹 Frμit Testbed – Research Assistant @ Loughborough (2018)
+### 🔹 Frμit Testbed – Research Assistant @ Loughborough University (2018)
 Benchmarked energy-efficient Raspberry Pi clusters for rural web/data services.
 
 ---
@@ -62,7 +62,7 @@ Benchmarked energy-efficient Raspberry Pi clusters for rural web/data services.
 ## 🎓 Education
 
 - **PhD:** ML for Network Security, Loughborough University  
-- **MSc:** Internet Computing & Network Security, Distinction  
+- **MSc:** Internet Computing & Network Security, Distinction, Loughborough University  
 - **BSc:** Computer Science, First Class Honours, De Montfort University
 
 ---
