@@ -2,7 +2,7 @@
 
 **Machine Learning/AI Engineer | Embedded Systems Engineer | Academic Researcher**
 
-Welcome to my GitHub! I'm Dr Matthew Beechey — a multidisciplinary engineer and researcher working at the interface of embedded systems, machine learning, and intelligent infrastructure. With experience spanning academia, startups, and industry, I’m passionate about building intelligent systems that solve real-world problems.
+Welcome to my GitHub! I'm Dr Matthew Beechey — a multidisciplinary engineer and researcher working at the interface of embedded systems, machine learning, and intelligent infrastructure systems. With experience spanning academia, startups, and industry, I’m passionate about building intelligent systems that solve real-world problems.
 
 ---
 
@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm Dr Matthew Beechey — a multidisciplinary engineer an
 
 ## 📂 Selected Projects & Roles
 
-### 🔹 TraffEase (2025–Present) – Lead AI Engineer @ TransHumanity
+### 🔹 TraffEase – Lead AI Engineer @ TransHumanity (2025–Present)
 Building the first multi-agentic LLM platform for traffic insight using local authority data.
 
 ### 🔹 TITAN Consortium – ML Researcher @ Loughborough University (2024–2025)
@@ -61,9 +61,9 @@ Benchmarked energy-efficient Raspberry Pi clusters for rural web/data services.
 
 ## 🎓 Education
 
-- **PhD:** ML for Network Security, Loughborough University  
-- **MSc:** Internet Computing & Network Security, Distinction, Loughborough University  
-- **BSc:** Computer Science, First Class Honours, De Montfort University
+- **PhD:** ML for Network Security, Loughborough University (2019 - 2022)  
+- **MSc:** Internet Computing & Network Security, Distinction, Loughborough University (2017 - 2018)  
+- **BSc:** Computer Science, First Class Honours, De Montfort University (2013 - 2016)
 
 ---
 
