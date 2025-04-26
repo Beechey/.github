@@ -1,4 +1,4 @@
-# Dr Matthew Beechey
+# Hi, I'm Dr Matt Beechey 👋
 
 **Machine Learning/AI Engineer | Embedded Systems Engineer | Academic Researcher**
 
