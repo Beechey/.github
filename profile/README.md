@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm Dr Matthew Beechey — a multidisciplinary engineer an
 
 ## 🛠️ Key Skills
 
-- **Languages:** Python, C, PHP, Java, SQL  
+- **Languages:** Python, C, PHP, Java, JavaScript, TypeScript, SQL  
 - **ML/AI Frameworks:** PyTorch, Scikit-Learn, LangChain, PydanticAI  
 - **Embedded Tech:** STM32, UART, I2C, SPI, LTE-M, GNSS  
 - **Tools & Platforms:** KiCad, Altium, Fusion 360, Docker, Redis, Grafana  
