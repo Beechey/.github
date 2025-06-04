@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm Dr Matt Beechey — a multidisciplinary engineer and r
   Architecting sensor-driven IoT platforms for environmental sensing and public transport analytics.
 
 - **Autonomous Systems & Multi-Agent AI**  
-  Current work on TraffEase – a multi-agentic language AI system for real-time traffic insight.
+  Current work on TraffEase – a multi-agentic, intelligent language and analysis AI system for real-time traffic insight.
 
 ---
 
