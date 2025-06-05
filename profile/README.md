@@ -73,10 +73,7 @@ Benchmarked energy-efficient Raspberry Pi clusters for rural web/data services.
 ## 🤝 Let's Collaborate
 
 Interested in collaborating on intelligent systems, ML research, or embedded design?  
-Feel free to get in touch:
-
-📫 **Email:** mattbeechey@gmail.com  
-📍 **Location:** Loughborough, UK  
+Feel free to get in touch!
 
 ---
 
