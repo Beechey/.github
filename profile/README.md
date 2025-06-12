@@ -57,8 +57,8 @@ Benchmarked energy-efficient Raspberry Pi clusters for rural web/data services.
 - Beechey et al., *Evidential Classification and Feature Selection for Cyber-Threat Hunting*, Knowledge-Based Systems, 2021  
 - Beechey et al., *Evidential Classification for Defending Against Adversarial Attacks on Network Traffic*, Information Fusion, 2023  
 - Upcoming (2025):  
-  - GNN-Based Traffic Engineering for Dynamic End-to-End Network Slicing  
-  - GNN-Based Resource Aware Wireless Device Association for Network Slicing
+  - GNN-Based Traffic Engineering for Dynamic End-to-End Network Slicing (Conference)
+  - GNN-Based Resource Aware Wireless Device Association for Network Slicing (Journal)
 
 ---
 
