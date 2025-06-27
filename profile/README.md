@@ -41,7 +41,7 @@ Building the first multi-agentic LLM platform for traffic insight using local au
 ### 🔹 TITAN Consortium – ML Researcher @ Loughborough University (2024–2025)
 Graph-based modelling of network latency and user association in wireless networks.
 
-### 🔹 Bus MONITOR – Technical Product Manager @ Vectare Ltd (2022–2024)
+### 🔹 Bus MONITOR – Hardware/ML Engineer @ Vectare Ltd (2022–2024)
 Developed an embedded IoT platform for measuring service quality on public transport.
 
 ### 🔹 Evidential Classification – Doctoral Researcher @ Loughborough University (2019–2022)
