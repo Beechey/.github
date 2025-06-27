@@ -35,19 +35,19 @@ Welcome to my GitHub! I'm Dr Matt Beechey — a multidisciplinary engineer and r
 
 ## 📂 Selected Projects & Roles
 
-### 🔹 TraffEase – Lead AI Engineer @ TransHumanity (2025–Present)
+### 🔹 Lead AI Engineer @ TransHumanity (2025–Present)
 Building the first multi-agentic LLM platform for traffic insight using local authority data.
 
-### 🔹 TITAN Consortium – ML Researcher @ Loughborough University (2024–2025)
+### 🔹 ML Researcher @ Loughborough University (2024–2025)
 Graph-based modelling of network latency and user association in wireless networks.
 
-### 🔹 Bus MONITOR – Hardware/ML Engineer @ Vectare Ltd (2022–2024)
+### 🔹 Hardware/ML Engineer @ Vectare Ltd (2022–2024)
 Developed an embedded IoT platform for measuring service quality on public transport.
 
-### 🔹 Evidential Classification – Doctoral Researcher @ Loughborough University (2019–2022)
+### 🔹 Doctoral Researcher @ Loughborough University (2019–2022)
 Designed and developed novel techniques for feature selection and defending against adversarial attacks using evidential classification.
 
-### 🔹 Frμit Testbed – Research Assistant @ Loughborough University (2018)
+### 🔹 Research Assistant @ Loughborough University (2018)
 Benchmarked energy-efficient Raspberry Pi clusters for rural web/data services.
 
 ---
