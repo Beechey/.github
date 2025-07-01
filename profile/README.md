@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm Dr Matt Beechey — a multidisciplinary engineer and r
 - **ML/AI Frameworks:** PyTorch, Scikit-Learn, LangChain, PydanticAI  
 - **Embedded Tech:** STM32, UART, I2C, SPI, Ethernet, LTE-M, GNSS
 - **Tools & Platforms:** KiCad, Altium Designer, Fusion 360, Docker, Redis, Grafana  
-- **Cloud:** AWS EC2/S3/SageMaker/ECS  
+- **Cloud:** AWS EC2/S3/SageMaker/ECS/SQS  
 - **Product & Project Management:** Stakeholder engagement, technical communication, web marketing, team management
 
 ---
@@ -41,7 +41,7 @@ Building the first multi-agentic LLM platform for traffic insight using local au
 ### 🔹 ML Researcher @ Loughborough University (2024–2025)
 Graph-based modelling of network latency and user association in wireless networks.
 
-### 🔹 Hardware/ML Engineer @ Vectare Ltd (2022–2024)
+### 🔹 Hardware/ML Engineer @ Vectare (2022–2024)
 Developed an embedded IoT platform for measuring service quality on public transport.
 
 ### 🔹 Doctoral Researcher @ Loughborough University (2019–2022)
