@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm Dr Matt Beechey — a multidisciplinary engineer and r
 
 ## 📂 Selected Projects & Roles
 
-### 🔹 Founding AI Engineer @ TransHumanity (March 2025–Present)
+### 🔹 Founding AI Software Engineer @ TransHumanity (March 2025–Present)
 Building the first multi-agentic LLM platform for traffic insight using local authority data.
 
 ### 🔹 ML Researcher @ Loughborough University (June 2024–April 2025)
