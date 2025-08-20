@@ -75,6 +75,3 @@ Benchmarked energy-efficient Raspberry Pi clusters for rural web/data services.
 Interested in collaborating on intelligent systems, ML research, or embedded design?  
 Feel free to get in touch!
 
----
-
-_“Engineering AI systems that see, sense, and adapt to the world around them.”_
