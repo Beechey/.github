@@ -6,7 +6,7 @@ Hi, I'm Matt Beechey, a multidisciplinary engineer and researcher working at the
 
 ---
 
-## 🧠 Research & Technical Interests
+## Research & Technical Interests
 
 - **Graph Neural Networks & Reinforcement Learning**  
   Applied to network slicing, congestion control, and device association in Beyond 5G networks.
@@ -22,7 +22,7 @@ Hi, I'm Matt Beechey, a multidisciplinary engineer and researcher working at the
 
 ---
 
-## 🛠️ Key Skills
+## Key Skills
 
 - **Languages:** Python, C, PHP, Java, JavaScript, TypeScript, SQL  
 - **ML/AI Frameworks:** PyTorch, Scikit-Learn, LangChain, LangGraph, PydanticAI  
@@ -33,33 +33,33 @@ Hi, I'm Matt Beechey, a multidisciplinary engineer and researcher working at the
 
 ---
 
-## 📂 Selected Projects & Roles
+## Selected Projects & Roles
 
-### 🔹 Senior AI Software Engineer @ TransHumanity (March 2025–Present)
+### Senior AI Software Engineer @ TransHumanity (March 2025–Present)
 Building the first multi-agentic LLM platform for traffic insight using local authority data.
 
-### 🔹 ML Researcher @ Loughborough University (June 2024–April 2025)
+### ML Researcher @ Loughborough University (June 2024–April 2025)
 Graph-based modelling of network latency and user association in wireless networks.
 
-### 🔹 Hardware/ML Engineer @ Vectare (April 2022–April 2024)
+### Hardware/ML Engineer @ Vectare (April 2022–April 2024)
 Developed an embedded IoT platform for measuring service quality on public transport.
 
-### 🔹 Doctoral Researcher @ Loughborough University (January 2019–December 2022)
+### Doctoral Researcher @ Loughborough University (January 2019–December 2022)
 Designed and developed novel techniques for feature selection and defending against adversarial attacks using evidential classification.
 
-### 🔹 Research Assistant @ Loughborough University (2018)
+### Research Assistant @ Loughborough University (2018)
 Benchmarked energy-efficient Raspberry Pi clusters for rural web/data services.
 
 ---
 
-## 🧾 Publications
+## Publications
 
 - Beechey et al., *Evidential Classification and Feature Selection for Cyber-Threat Hunting*, Knowledge-Based Systems, 2021  
 - Beechey et al., *Evidential Classification for Defending Against Adversarial Attacks on Network Traffic*, Information Fusion, 2023  
 
 ---
 
-## 🎓 Education
+## Education
 
 - **PhD:** ML for Network Security, Loughborough University (2019 - 2022)  
 - **MSc:** Internet Computing & Network Security, Distinction, Loughborough University (2017 - 2018)  
@@ -67,7 +67,7 @@ Benchmarked energy-efficient Raspberry Pi clusters for rural web/data services.
 
 ---
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 
 Interested in collaborating on intelligent systems, ML research, or embedded design?  
 Feel free to get in touch!
