@@ -6,7 +6,7 @@ Hi, I'm Matt Beechey, a multidisciplinary engineer and researcher working at the
 
 ---
 
-## Research & Technical Interests
+## Research & Interests
 
 - **Graph Neural Networks & Reinforcement Learning**  
   Applied to network slicing, congestion control, and device association in Beyond 5G networks.
