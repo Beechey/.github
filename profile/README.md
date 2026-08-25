@@ -1,4 +1,4 @@
-# Hi, I'm Matt Beechey 👋
+# Hi, I'm Dr Matt Beechey 👋
 
 **AI/ML Engineer | Hardware Engineer | Embedded Systems Engineer | Researcher**
 
