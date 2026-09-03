@@ -36,7 +36,7 @@ Hi, I'm Matt Beechey, a multidisciplinary engineer and researcher working at the
 ## Selected Projects & Roles
 
 ### Senior AI Software Engineer @ TransHumanity (March 2025–Present)
-Building the first multi-agentic LLM platform for traffic insight using local authority data.
+Building the UKs most comprehensive decision intelligence and automation platform.
 
 ### ML Researcher @ Loughborough University (June 2024–April 2025)
 Graph-based modelling of network latency and user association in wireless networks.
