@@ -1,6 +1,6 @@
 """Draws the README header (light + dark). Figure echoes the portfolio's Figure 1:
-# Regenerate: python3 tools/banner.py profile/assets
 two classes, a decision boundary, and a band where an evidential classifier declines."""
+# Regenerate: python3 tools/banner.py profile/assets
 import random, math, sys
 
 W, H = 1200, 400
