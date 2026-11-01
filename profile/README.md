@@ -10,13 +10,7 @@
   <a href="https://twitter.com/mattbeechey"><img alt="X" src="https://img.shields.io/badge/@mattbeechey-191713?style=flat-square&logo=x&logoColor=white"></a>
 </p>
 
-My PhD asked how a classifier can say what it doesn't know, and what that admission is worth. I've been chasing the same question since: in multi-agent AI for transport authorities, graph neural networks for beyond-5G networks, and sensors I designed to ride around on buses.
-
-## Now
-
-**Leading the build of [Aptiq](https://transhumanity.ai) at TransHumanity.** It's a decision-intelligence platform where local authorities ask questions of their own data in plain English. Specialist agents resolve each question against an ontology the customer defines and emit a structured query. That query is the receipt: every figure in an answer opens up to the snapshot and SQL that produced it.
-
-`Python` `LangGraph` `FastAPI` `PostgreSQL` `Apache Iceberg` `DuckDB` `React` `TypeScript`
+I like building things end to end, from AI agents and Android apps down to circuit boards and firmware. By day I'm an AI engineer at [TransHumanity](https://transhumanity.ai). Here's what I've been making lately.
 
 ## Building
 
@@ -55,14 +49,6 @@ Aerial computer vision that tracks how vehicles actually use a junction. YOLO11 
 </tr>
 </table>
 
-## Research
-
-Evidence theory for machine learning in network security. Models that can call an input *uncertain* rather than guess.
-
-- **[Evidential classification for defending against adversarial attacks on network traffic](https://doi.org/10.1016/j.inffus.2022.11.024)**<br><sub>*Information Fusion*, 2023 · Cut misclassification under JSMA from 99.67% to 1.33% with no adversarial training. · [code](https://github.com/Beechey/NNDS)</sub>
-- **[Evidential classification and feature selection for cyber-threat hunting](https://doi.org/10.1016/j.knosys.2021.107120)**<br><sub>*Knowledge-Based Systems*, 2021 · F1 of 0.99 in under a third of the classification time. · [code](https://github.com/Beechey/LRDS)</sub>
-- **[Evidence theory based machine learning approaches for network security](https://doi.org/10.26174/thesis.lboro.22890080.v1)**<br><sub>PhD thesis, Loughborough University, 2023</sub>
-
 ## Toolkit
 
 <table>
@@ -71,6 +57,13 @@ Evidence theory for machine learning in network security. Models that can call a
 <tr><td><b>Data & cloud</b></td><td>PostgreSQL · DuckDB · Iceberg · Redis · Docker · AWS</td></tr>
 <tr><td><b>Hardware</b></td><td>STM32 firmware · PCB design (KiCad, Altium) · MQTT over LTE-M · GNSS</td></tr>
 </table>
+
+## Papers
+
+<sub>PhD in machine learning for network security, Loughborough University.</sub>
+
+- [Evidential classification for defending against adversarial attacks on network traffic](https://doi.org/10.1016/j.inffus.2022.11.024) · <sub>*Information Fusion*, 2023</sub>
+- [Evidential classification and feature selection for cyber-threat hunting](https://doi.org/10.1016/j.knosys.2021.107120) · <sub>*Knowledge-Based Systems*, 2021</sub>
 
 ---
 
