@@ -1,74 +1,77 @@
-# Hi, I'm Dr Matt Beechey 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beechey/.github/main/profile/assets/header-dark.svg">
+  <img alt="Dr Matt Beechey. Lead AI Engineer at TransHumanity. I build machine learning systems that have to survive contact with the real world, and say when they don't know." src="https://raw.githubusercontent.com/Beechey/.github/main/profile/assets/header-light.svg" width="100%">
+</picture>
 
-**AI/ML Engineer | Hardware Engineer | Embedded Systems Engineer | Researcher**
+<p>
+  <a href="https://www.mattbeechey.com"><img alt="mattbeechey.com" src="https://img.shields.io/badge/mattbeechey.com-BF3B21?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/matthew-beechey/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2B4C7E?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://orcid.org/0000-0001-7683-3867"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-191713?style=flat-square&logo=orcid&logoColor=white"></a>
+  <a href="https://twitter.com/mattbeechey"><img alt="X" src="https://img.shields.io/badge/@mattbeechey-191713?style=flat-square&logo=x&logoColor=white"></a>
+</p>
 
-Hi, I'm Matt Beechey, a multidisciplinary engineer and researcher working at the interface of embedded systems, machine learning, and intelligent systems. With experience spanning start-ups, scale-ups, and research - I am passionate about building intelligent systems that solve real-world problems.
+My PhD asked how a classifier can say what it doesn't know, and what that admission is worth. I've been chasing the same question since: in multi-agent AI for transport authorities, graph neural networks for beyond-5G networks, and sensors I designed to ride around on buses.
+
+## Now
+
+**Leading the build of [Aptiq](https://transhumanity.ai) at TransHumanity.** It's a decision-intelligence platform where local authorities ask questions of their own data in plain English. Specialist agents resolve each question against an ontology the customer defines and emit a structured query. That query is the receipt: every figure in an answer opens up to the snapshot and SQL that produced it.
+
+`Python` `LangGraph` `FastAPI` `PostgreSQL` `Apache Iceberg` `DuckDB` `React` `TypeScript`
+
+## Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Seam](https://github.com/aveterosystems/seam)** · <sub>open source</sub><br>
+Links an Android phone to a Mac: notifications, texts, clipboard and files. End-to-end encrypted with Signal's libsignal, with a single Rust core shared by SwiftUI and Jetpack Compose apps.<br>
+`Rust` `libsignal` `Swift` `Kotlin` `Cloudflare Workers`
+
+</td>
+<td width="50%" valign="top">
+
+**[outpost](https://github.com/Beechey/outpost)**<br>
+One command turns a bare Ubuntu server into an always-on home for AI coding agents. A second moves everything, including unfinished agent threads, to a new server.<br>
+`Go` `Tailscale` `Docker` `Claude Code` `T3 Code`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Relay](https://github.com/Beechey/relay-releases)**<br>
+A remote-first IPTV player for Android TV, Fire TV and phones. Streams huge catalogues and XMLTV guides to disk as they download, so big playlists never run out of memory.<br>
+`Kotlin` `Jetpack Compose` `Media3` `Android TV`
+
+</td>
+<td width="50%" valign="top">
+
+**[Traffic Insight](https://github.com/Beechey/traffic_insight)**<br>
+Aerial computer vision that tracks how vehicles actually use a junction. YOLO11 fine-tuned for small, dense, arbitrarily rotated vehicles seen from above.<br>
+`PyTorch` `YOLO11` `OpenCV`
+
+</td>
+</tr>
+</table>
+
+## Research
+
+Evidence theory for machine learning in network security. Models that can call an input *uncertain* rather than guess.
+
+- **[Evidential classification for defending against adversarial attacks on network traffic](https://doi.org/10.1016/j.inffus.2022.11.024)**<br><sub>*Information Fusion*, 2023 · Cut misclassification under JSMA from 99.67% to 1.33% with no adversarial training. · [code](https://github.com/Beechey/NNDS)</sub>
+- **[Evidential classification and feature selection for cyber-threat hunting](https://doi.org/10.1016/j.knosys.2021.107120)**<br><sub>*Knowledge-Based Systems*, 2021 · F1 of 0.99 in under a third of the classification time. · [code](https://github.com/Beechey/LRDS)</sub>
+- **[Evidence theory based machine learning approaches for network security](https://doi.org/10.26174/thesis.lboro.22890080.v1)**<br><sub>PhD thesis, Loughborough University, 2023</sub>
+
+## Toolkit
+
+<table>
+<tr><td><b>ML & agents</b></td><td>PyTorch · LangGraph · PydanticAI · scikit-learn · GNNs · computer vision · evals</td></tr>
+<tr><td><b>Software</b></td><td>Python · TypeScript · Go · Rust · Kotlin · C · SQL</td></tr>
+<tr><td><b>Data & cloud</b></td><td>PostgreSQL · DuckDB · Iceberg · Redis · Docker · AWS</td></tr>
+<tr><td><b>Hardware</b></td><td>STM32 firmware · PCB design (KiCad, Altium) · MQTT over LTE-M · GNSS</td></tr>
+</table>
 
 ---
 
-## Research & Interests
-
-- **Graph Neural Networks & Reinforcement Learning**  
-  Applied to network slicing, congestion control, and device association in Beyond 5G networks.
-
-- **Evidential Machine Learning for Network Security**  
-  Using evidence theory to understand uncertainty and defend against adversarial attacks.
-
-- **Intelligent Embedded Systems**  
-  Architecting sensor-driven IoT platforms for environmental sensing and public transport analytics.
-
-- **Autonomous Systems & Multi-Agent AI**  
-  Current work on TraffEase – a multi-agentic, intelligent language and analysis AI system for real-time traffic insight.
-
----
-
-## Key Skills
-
-- **Languages:** Python, C, PHP, Java, JavaScript, TypeScript, SQL  
-- **ML/AI Frameworks:** PyTorch, Scikit-Learn, LangChain, LangGraph, PydanticAI  
-- **Embedded Tech:** STM32, UART, I2C, SPI, Ethernet, LTE-M, GNSS
-- **Tools & Platforms:** KiCad, Altium Designer, Fusion 360, Docker, Redis, Grafana  
-- **Cloud:** AWS EC2/S3/SageMaker/ECS/SQS  
-- **Product & Project Management:** Stakeholder engagement, technical communication, web marketing, team management
-
----
-
-## Selected Projects & Roles
-
-### Senior AI Software Engineer @ TransHumanity (March 2025–Present)
-Building the UKs most comprehensive decision intelligence and automation platform.
-
-### ML Researcher @ Loughborough University (June 2024–April 2025)
-Graph-based modelling of network latency and user association in wireless networks.
-
-### Hardware/ML Engineer @ Vectare (April 2022–April 2024)
-Developed an embedded IoT platform for measuring service quality on public transport.
-
-### Doctoral Researcher @ Loughborough University (January 2019–December 2022)
-Designed and developed novel techniques for feature selection and defending against adversarial attacks using evidential classification.
-
-### Research Assistant @ Loughborough University (2018)
-Benchmarked energy-efficient Raspberry Pi clusters for rural web/data services.
-
----
-
-## Publications
-
-- Beechey et al., *Evidential Classification and Feature Selection for Cyber-Threat Hunting*, Knowledge-Based Systems, 2021  
-- Beechey et al., *Evidential Classification for Defending Against Adversarial Attacks on Network Traffic*, Information Fusion, 2023  
-
----
-
-## Education
-
-- **PhD:** ML for Network Security, Loughborough University (2019 - 2022)  
-- **MSc:** Internet Computing & Network Security, Distinction, Loughborough University (2017 - 2018)  
-- **BSc:** Computer Science, First Class Honours, De Montfort University (2013 - 2016)
-
----
-
-## Let's Collaborate
-
-Interested in collaborating on intelligent systems, ML research, or embedded design?  
-Feel free to get in touch!
-
+<p align="center"><i>Up for conversations about trustworthy AI, agent tooling, or anything with a sensor on it.<br>The best ones happen over good coffee. ☕</i></p>

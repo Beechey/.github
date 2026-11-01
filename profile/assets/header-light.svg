@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Dr Matt Beechey. Lead AI Engineer. Machine learning, evidence theory, and systems that survive the real world.">
+<rect width="1200" height="400" fill="#F7F4ED"/>
+<defs><pattern id="h" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#BF3B21" stroke-width="1.2" opacity=".55"/></pattern><clipPath id="c"><rect x="770" y="56" width="370" height="262"/></clipPath></defs>
+<text x="64" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="3" fill="#BF3B21">§ README — LOUGHBOROUGH, UK</text>
+<text x="60" y="186" font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, serif" font-size="72" fill="#191713">Dr Matt Beechey</text>
+<text x="64" y="232" font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, serif" font-style="italic" font-size="26" fill="#6B645A">Lead AI Engineer at TransHumanity.</text>
+<line x1="64" y1="268" x2="664" y2="268" stroke="#D9D2C3"/>
+<text x="64" y="304" font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, serif" font-size="21" fill="#191713">I build machine learning systems that have to survive</text>
+<text x="64" y="334" font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, serif" font-size="21" fill="#191713">contact with the real world, and say when they don’t know.</text>
+<g clip-path="url(#c)"><polygon points="770.0,358.8 1140.0,96.8 1140.0,15.2 770.0,277.2" fill="url(#h)"/><line x1="770" y1="318" x2="1140" y2="56" stroke="#191713" stroke-width="1.2" stroke-dasharray="5 4"/></g>
+<rect x="770" y="56" width="370" height="262" fill="none" stroke="#D9D2C3"/>
+<circle cx="857.5" cy="117.1" r="4" fill="#191713"/>
+<circle cx="859.4" cy="153.9" r="4" fill="#191713"/>
+<circle cx="815.1" cy="149.3" r="4" fill="#191713"/>
+<circle cx="943.5" cy="120.9" r="4" fill="#191713"/>
+<circle cx="938.8" cy="128.8" r="4" fill="#191713"/>
+<circle cx="898.4" cy="131.6" r="4" fill="#191713"/>
+<circle cx="784.8" cy="101.7" r="4" fill="#191713"/>
+<circle cx="905.5" cy="117.6" r="4" fill="#191713"/>
+<circle cx="784.8" cy="217.5" r="4" fill="#191713"/>
+<circle cx="817.6" cy="160.7" r="4" fill="#191713"/>
+<circle cx="892.8" cy="141.9" r="4" fill="#191713"/>
+<circle cx="906.4" cy="168.4" r="4" fill="#191713"/>
+<circle cx="893.0" cy="122.3" r="4" fill="#191713"/>
+<circle cx="832.0" cy="66.5" r="4" fill="#191713"/>
+<circle cx="908.6" cy="86.5" r="4" fill="#191713"/>
+<circle cx="834.6" cy="172.8" r="4" fill="#191713"/>
+<circle cx="852.0" cy="144.6" r="4" fill="#191713"/>
+<circle cx="913.4" cy="128.8" r="4" fill="#191713"/>
+<circle cx="845.5" cy="182.5" r="4" fill="#191713"/>
+<circle cx="840.9" cy="85.5" r="4" fill="#191713"/>
+<circle cx="822.8" cy="128.9" r="4" fill="#191713"/>
+<circle cx="900.4" cy="206.2" r="4.6" fill="none" stroke="#BF3B21" stroke-width="1.6"/>
+<circle cx="876.6" cy="81.7" r="4" fill="#191713"/>
+<circle cx="784.8" cy="154.2" r="4" fill="#191713"/>
+<circle cx="866.9" cy="176.2" r="4" fill="#191713"/>
+<circle cx="904.9" cy="142.6" r="4" fill="#191713"/>
+<circle cx="784.8" cy="103.0" r="4" fill="#191713"/>
+<circle cx="915.7" cy="97.7" r="4" fill="#191713"/>
+<circle cx="964.2" cy="123.7" r="4" fill="#191713"/>
+<circle cx="881.1" cy="197.7" r="4" fill="#191713"/>
+<circle cx="912.3" cy="167.1" r="4" fill="#191713"/>
+<circle cx="845.1" cy="196.2" r="4" fill="#191713"/>
+<circle cx="812.7" cy="163.5" r="4" fill="#191713"/>
+<circle cx="954.7" cy="230.3" r="4" fill="#191713"/>
+<circle cx="944.7" cy="223.5" r="4.6" fill="none" stroke="#BF3B21" stroke-width="1.6"/>
+<circle cx="1125.2" cy="208.4" r="4" fill="#2B4C7E"/>
+<circle cx="916.9" cy="307.5" r="4" fill="#2B4C7E"/>
+<circle cx="1058.9" cy="267.0" r="4" fill="#2B4C7E"/>
+<circle cx="966.0" cy="190.6" r="4.6" fill="none" stroke="#BF3B21" stroke-width="1.6"/>
+<circle cx="1105.7" cy="227.2" r="4" fill="#2B4C7E"/>
+<circle cx="1051.9" cy="214.8" r="4" fill="#2B4C7E"/>
+<circle cx="1125.2" cy="206.6" r="4" fill="#2B4C7E"/>
+<circle cx="1069.0" cy="209.8" r="4" fill="#2B4C7E"/>
+<circle cx="937.8" cy="177.1" r="4.6" fill="none" stroke="#BF3B21" stroke-width="1.6"/>
+<circle cx="1096.5" cy="210.6" r="4" fill="#2B4C7E"/>
+<circle cx="912.2" cy="262.4" r="4" fill="#2B4C7E"/>
+<circle cx="1089.4" cy="307.5" r="4" fill="#2B4C7E"/>
+<circle cx="1024.8" cy="188.8" r="4" fill="#2B4C7E"/>
+<circle cx="953.9" cy="162.4" r="4.6" fill="none" stroke="#BF3B21" stroke-width="1.6"/>
+<circle cx="1071.1" cy="240.8" r="4" fill="#2B4C7E"/>
+<circle cx="1056.8" cy="205.2" r="4" fill="#2B4C7E"/>
+<circle cx="1044.0" cy="183.1" r="4" fill="#2B4C7E"/>
+<circle cx="994.8" cy="252.6" r="4" fill="#2B4C7E"/>
+<circle cx="1101.9" cy="233.0" r="4" fill="#2B4C7E"/>
+<circle cx="981.0" cy="192.0" r="4.6" fill="none" stroke="#BF3B21" stroke-width="1.6"/>
+<circle cx="1125.2" cy="254.0" r="4" fill="#2B4C7E"/>
+<circle cx="949.6" cy="240.2" r="4" fill="#2B4C7E"/>
+<circle cx="1027.0" cy="247.4" r="4" fill="#2B4C7E"/>
+<circle cx="1124.8" cy="279.9" r="4" fill="#2B4C7E"/>
+<circle cx="1115.7" cy="290.7" r="4" fill="#2B4C7E"/>
+<circle cx="986.9" cy="206.0" r="4" fill="#2B4C7E"/>
+<circle cx="1107.4" cy="195.9" r="4" fill="#2B4C7E"/>
+<circle cx="1058.1" cy="227.8" r="4" fill="#2B4C7E"/>
+<circle cx="1046.0" cy="208.5" r="4" fill="#2B4C7E"/>
+<circle cx="1025.3" cy="221.8" r="4" fill="#2B4C7E"/>
+<circle cx="1072.4" cy="234.1" r="4" fill="#2B4C7E"/>
+<circle cx="1084.5" cy="209.0" r="4" fill="#2B4C7E"/>
+<circle cx="1125.2" cy="219.7" r="4" fill="#2B4C7E"/>
+<text x="770" y="348" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#6B645A"><tspan fill="#BF3B21">FIG. 1</tspan>  Declines rather than guesses.</text>
+</svg>
