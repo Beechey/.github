@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beechey/.github/main/profile/assets/header-dark.svg">
-  <img alt="Dr Matt Beechey. Lead AI Engineer at TransHumanity. I build machine learning systems that have to survive contact with the real world, and say when they don't know." src="https://raw.githubusercontent.com/Beechey/.github/main/profile/assets/header-light.svg" width="100%">
+  <img alt="Matt Beechey. Engineer, researcher, builder of things." src="https://raw.githubusercontent.com/Beechey/.github/main/profile/assets/header-light.svg" width="100%">
 </picture>
 
 <p>
