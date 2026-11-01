@@ -41,7 +41,7 @@ THEMES = {
 }
 if __name__ == "__main__":
     for name, t in THEMES.items():
-        open(f"{sys.argv[1]}/header-{name}.svg", "w").write(svg(t))
+        open(f"{sys.argv[1]}/banner-{name}.svg", "w").write(svg(t))
     # self-check: the field has dots, fades in (denser on the right), and has a few accents
     d = field()
     assert sum(x > 920 for x, *_ in d) > sum(x <= 920 for x, *_ in d)

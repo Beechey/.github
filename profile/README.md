@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beechey/.github/main/profile/assets/header-dark.svg?v=2">
-  <img alt="Matt Beechey. Engineer, researcher, builder of things." src="https://raw.githubusercontent.com/Beechey/.github/main/profile/assets/header-light.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beechey/.github/main/profile/assets/banner-dark.svg">
+  <img alt="Matt Beechey. Engineer, researcher, builder of things." src="https://raw.githubusercontent.com/Beechey/.github/main/profile/assets/banner-light.svg" width="100%">
 </picture>
 
 <p>
